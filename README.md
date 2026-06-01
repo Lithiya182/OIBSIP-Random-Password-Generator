@@ -46,7 +46,7 @@ python main.py
 
 ### Main Interface
 
-![Main UI](screenshots/main_ui.png)
+![Main UI](screenshots/main_UI.png)
 
 ### Generated Password
 
