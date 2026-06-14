@@ -64,11 +64,6 @@ python main.py
 - Password history is kept in memory only for the current session and is
   never written to disk.
 
-## License
-
-This project is available under the MIT License. Feel free to use, modify,
-and distribute it for personal or educational purposes.
-
 ## Author
 
 Created as part of the Oasis Infobyte Internship Program.
