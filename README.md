@@ -26,17 +26,6 @@ with the Tessera dark teal color scheme.
   from the password field
 - Tessera dark teal design system
 
-## Color Scheme
-
-| Token   | Hex       | Role                          |
-|---------|-----------|-------------------------------|
-| BG      | `#061e29` | Page / window background      |
-| SURFACE | `#0d2e3e` | Cards, frames                 |
-| MID     | `#1d546d` | Primary buttons               |
-| ACCENT  | `#5f9598` | Highlights, bars, labels      |
-| LIGHT   | `#f3f4f4` | Primary text                  |
-| MUTED   | `#a8bfc0` | Secondary / placeholder text  |
-
 ## Technologies Used
 
 - Python 3.9+
